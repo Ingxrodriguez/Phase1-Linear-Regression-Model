@@ -12,7 +12,7 @@ The dataset contains chemical descriptors that describe molecular structures and
 ## 2. Data Exploration
 In the exploratory analysis stage, the dataset was examined to understand the distribution of variables and relationships between features. Several visualizations were created, including histograms, box plots, and a correlation heatmap. This step helped identify potential categorical variables and understand how different descriptors relate to the target variable.
 
-![Heat map](Docs/Heat_map_Exploration_phase.png)
+![Heat map]([Docs/Heat_map_Exploration_phase.png](https://github.com/Ingxrodriguez/Phase1-Linear-Regression-Model/blob/main/Phase1-Linear-Regression-Model/Docs/Heat_map_Exploration_phase.png))
 
 ![Boxplot](Docs/Boxplot_Exploration_phase.png)
 

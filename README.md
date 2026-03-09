@@ -12,9 +12,9 @@ The dataset contains chemical descriptors that describe molecular structures and
 ## 2. Data Exploration
 In the exploratory analysis stage, the dataset was examined to understand the distribution of variables and relationships between features. Several visualizations were created, including histograms, box plots, and a correlation heatmap. This step helped identify potential categorical variables and understand how different descriptors relate to the target variable.
 
-![Heatmap](Docs/Heat_map_Exploration_phase.png) 
+![Heatmap](../Docs/Heat_map_Exploration_phase.png)
 
-![Boxplot](Docs/Boxplot_Exploration_phase.png)
+![Boxplot](../Docs/Boxplot_Exploration_phase.png)
 
 ## 3.Data Transformation
 
@@ -33,16 +33,17 @@ Mean Squared Error (MSE), which measures the average squared difference between 
 
 The model achieved an R² score of approximately 0.54, meaning that about 54% of the variability in LC50 can be explained by the features in the dataset.
 
-![/Users/ingxrodriguez/Phase1-Linear-Regression-Model/Phase1-Linear-Regression-Model/Docs/Evaluate_Model.png]
+![Evaluate_Model](../Docs/Evaluate_Model.png)
+
 
 
 ## 5. Model Interpretation
 
 Regression coefficients were analyzed to understand which molecular descriptors have the strongest influence on LC50 predictions. A coefficient plot was used to visualize the impact of each feature on the model. Residual analysis was also performed to evaluate prediction errors and ensure the model behaves reasonably.
 
-![/Users/ingxrodriguez/Phase1-Linear-Regression-Model/Phase1-Linear-Regression-Model/Docs/Visualize_Coefficients.png]
+![Visualize_Coefficients](../Docs/Visualize_Coefficients.png)
 
-![/Users/ingxrodriguez/Phase1-Linear-Regression-Model/Phase1-Linear-Regression-Model/Docs/Residual_Plot.png]
+![Residual_plot](../Docs/Residual_Plot.png)
 
 ## Technologies Used
 

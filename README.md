@@ -1,4 +1,4 @@
-#### Phase1-Linear-Regression-Model
+# Phase1-Linear-Regression-Model
 
 ## Predicting Fish Toxicity Using Linear Regression
 
